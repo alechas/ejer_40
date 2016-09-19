@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<form enctype="multipart/form->data" method="post" action="nexo.php">
+<form enctype="multipart/form->data" method="files" action="nexo.php">
 <div class ="CajaInicio Animated bounceIn">
 
 <lavel> ingrese valor </lavel><br> </br>
