@@ -10,7 +10,6 @@
 <div class ="CajaInicio Animated bounceIn">
 
 <lavel> ingrese imagen </lavel><br> </br>
-//<input type="text" name= "valor" id = "valor"></input> <br> </br>
 
 <br> </br>
 <input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="text"> </input>
