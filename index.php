@@ -13,7 +13,7 @@
 <input type="text" name= "valor" id = "valor"></input> <br> </br>
 
 <br> </br>
-<input class= "MiBotonUtn" type= "submit" value="cargar" name="text" id="text"> </input>
+<input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="text"> </input>
 <input class= "MiBotonUtn" type= "file" value="file" name="file" id="file"> </input> 
 
 </div>
