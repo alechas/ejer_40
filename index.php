@@ -14,7 +14,7 @@
 
 <br> </br>
 <input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="text"> </input>
-<input class= "MiBotonUtn" type= "files" value="files" name="files" id="files"> </input> 
+<input class= "MiBotonUtn" type= "file" value="file" name="file" id="file"> </input> 
 
 </div>
 </form>
