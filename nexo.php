@@ -4,7 +4,7 @@
 
 var_dump($_POST);
 
-if ($_POST["cargar"]=="cargar") 
+if ($_POST["file"]=="file") 
 {
 
 }
