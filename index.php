@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<form enctype="multipart/form->data" method="files" action="nexo.php">
+<form enctype="multipart/form->data" method="post" action="nexo.php">
 <div class ="CajaInicio Animated bounceIn">
 
 <lavel> ingrese valor </lavel><br> </br>
@@ -14,7 +14,7 @@
 
 <br> </br>
 <input class= "MiBotonUtn" type= "submit" value="cargar" name="cargar" id="text"> </input>
-<input class= "MiBotonUtn" type= "file" value="file" name="file" id="file"> </input> 
+<input class= "MiBotonUtn" type= "files" value="files" name="files" id="files"> </input> 
 
 </div>
 </form>
