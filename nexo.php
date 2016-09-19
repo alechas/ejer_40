@@ -5,10 +5,10 @@
 var_dump($_POST);
 
 
-if ($_POST["file"]=="file") 
-{
+//if ($_POST["file"]=="file") 
+//{
 
-}
+//}
 
 
 
